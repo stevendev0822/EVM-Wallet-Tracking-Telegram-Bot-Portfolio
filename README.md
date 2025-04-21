@@ -3,7 +3,7 @@
 A professional real-time Ethereum and EVM-compatible blockchain wallet monitoring system that tracks transactions, and delivers instant notifications via Telegram.
 
 <p align="center">
-  <img src="https://github.com/stevendev0822/EVM-Wallet-Tracking-Telegram-Bot/blob/main/src/public/Usage.gif" alt="Main Menu">
+  <img src="https://github.com/stevendev0822/EVM-Wallet-Tracking-Telegram-Bot/blob/main/EVM Wallet Tracking Bot.gif" alt="Main Menu">
 </p>
 
 ## EVM Wallet Monitoring Overview
