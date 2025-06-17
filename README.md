@@ -3,7 +3,7 @@
 A professional real-time Ethereum and EVM-compatible blockchain wallet monitoring system that tracks transactions, and delivers instant notifications via Telegram.
 
 <p align="center">
-  <img src="https://github.com/stevendev0822/EVM-Wallet-Tracking-Telegram-Bot-Portfolio/blob/main/EVM%20Wallet%20Tracking%20Bot.gif" alt="Main Menu">
+  <img src="https://github.com/steven228312/EVM-Wallet-Tracking-Telegram-Bot-Portfolio/blob/main/EVM%20Wallet%20Tracking%20Bot.gif" alt="Main Menu">
 </p>
 
 ## EVM Wallet Monitoring Overview
@@ -32,7 +32,7 @@ The system is built on three core components:
 
 ```bash
 # Clone the repository
-git clone https://github.com/stevendev0822/EVM-Wallet-Tracking-Telegram-Bot.git
+git clone https://github.com/steven228312/EVM-Wallet-Tracking-Telegram-Bot.git
 
 # Navigate to the project directory
 cd EVM-Wallet-Tracking-Telegram-Bot
@@ -178,10 +178,10 @@ This project is licensed under the [MIT License](./LICENSE).
 ## Contact Information
 
 - Gmail: [steven0822.dev@gmail.com](mailto:steven0822.dev@gmail.com)
-- GitHub: [Steven Leal(stevendev0822)](https://github.com/stevendev0822)
-- Telegram: [@stevendev0822](https://t.me/stevendev0822)
-- Twitter: [@stevendev0822](https://twitter.com/stevendev0822)
-- Instagram: [@stevendev0822](https://www.instagram.com/stevendev0822/)
+- GitHub: [Steven Leal(steven228312)](https://github.com/steven228312)
+- Telegram: [@steven228312](https://t.me/steven228312)
+- Twitter: [@steven228312](https://twitter.com/steven228312)
+- Instagram: [@steven228312](https://www.instagram.com/steven228312/)
 
 ## Keywords
 
